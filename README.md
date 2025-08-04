@@ -96,6 +96,6 @@ All models trained on a stratified 80/20 train-test split.
 
 ## 10. Resources
 
-- [**GitHub Repo**](https://github.com/Sahnoun-A/Fraud-Prevention-ML-Project)
-- [**Kaggle Notebook**](https://www.kaggle.com/code/abdelkabirsahnoun/fraud-prevention)
-- [**Flask API Demo**](http://3.22.126.172:8080)
+- [**GitHub Repo**](https://github.com/Sahnoun-A/Credit_Card_Customer_Churn_Prediction)
+- [**Kaggle Notebook**](https://www.kaggle.com/code/abdelkabirsahnoun/credit-card-customer-churn-prediction)
+- [**Flask API Demo**](http://www.customer-churn.sahnoun.us:8080)
