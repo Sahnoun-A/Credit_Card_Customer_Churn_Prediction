@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Churn Prediction Result</title>
+</head>
+<body>
+    <h2>Prediction Result</h2>
+
+    <p><strong>Churn Prediction:</strong>
+        {% if prediction == 1 %}
+            <span style="color: red;">Attrited Customer</span>
+        {% else %}
+            <span style="color: green;">Existing Customer</span>
+        {% endif %}
+    </p>
+
+    <p><strong>Churn Probability:</strong> {{ probability * 100 }}%</p>
+
+    <br>
+    <a href="/">🔙 Predict Again</a>
+</body>
+</html>
